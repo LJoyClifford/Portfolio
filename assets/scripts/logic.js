@@ -46,3 +46,5 @@ contactBtn.addEventListener("click", ()=> {
     aboutSec.classList.add("d-none")
     projectsSec.classList.add("d-none")
 })
+
+//comment 
