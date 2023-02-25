@@ -47,4 +47,3 @@ contactBtn.addEventListener("click", ()=> {
     projectsSec.classList.add("d-none")
 })
 
-//comment 
