@@ -13,7 +13,6 @@ let contactSec = document.getElementById("contact-sec")
 // console.log(contactSec);
 
 
-
 homeBtn.addEventListener("click",()=> {
     homeSec.classList.remove("d-none")
     homeSec.classList.add("d-block")
